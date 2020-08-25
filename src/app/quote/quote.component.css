@@ -30,3 +30,7 @@
   .card {
     margin-top: 9px;
   }
+  #cards{
+    padding-top: 30px;
+    padding-bottom: 15px;
+  }
