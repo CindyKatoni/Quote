@@ -18,4 +18,10 @@
 
   .quotetitle{
       margin-top: 5px;
+      margin-bottom: 10px;
+      
+  }
+
+  .card {
+    margin-top: 9px;
   }
