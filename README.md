@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 cindykatoni
 
 ## Project name
-QuotesApp
+Quotes
 
 ## Description
 This is an angular app for generating and saving new quotes, voting for  and deleting them.
@@ -25,10 +25,10 @@ Internet connection
 Angular and node installations
 
 ## Bugs
-Still working on typescript,javascript and UI of the application.
+Still working on delete, upvote and downvote functionalities. As well as improving the UI.
 
 ## Link to deployed page:
-<https://cindykatoni.github.io/quote/>
+<https://cindykatoni.github.io/Quote/>
 
 ## Technologies used
 Angular, HTML, CSS, Bootstrap.
